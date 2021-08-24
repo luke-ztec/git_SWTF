@@ -77,17 +77,17 @@
 
 |                              No                              | 김영해 | 박수현 | 정동우 | 이택용 | 정찬용 | 권상혁 | 박창민 | 임이레 | 김우현 | 비   고 |
 | :----------------------------------------------------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| [0강](https://www.youtube.com/watch?v=6MGe3wG8Fr4&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=1&t=55s) |        |        |        |        |        |        |        |        |        |         |
-| [1강](https://www.youtube.com/watch?v=0tKGQbgQ-5s&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=2) |        |        |        |        |        |        |        |        |        |         |
-| [2강](https://www.youtube.com/watch?v=pOakXs66EEI&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=3) |        |        |        |        |        |        |        |        |        |         |
-| [3강](https://www.youtube.com/watch?v=GvUMF_UM8jU&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=4) |        |        |        |        |        |        |        |        |        |         |
-| [4강](https://www.youtube.com/watch?v=VtqhZQP7T4c&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=5) |        |        |        |        |        |        |        |        |        |         |
-| [5강](https://www.youtube.com/watch?v=nsy6_nJQ3K8&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=6) |        |        |        |        |        |        |        |        |        |         |
-| [6강](https://www.youtube.com/watch?v=EHVBOv_VRw4&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=7) |        |        |        |        |        |        |        |        |        |         |
-| [7강](https://www.youtube.com/watch?v=1KZFLpJ3jio&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=8) |        |        |        |        |        |        |        |        |        |         |
-| [8강](https://www.youtube.com/watch?v=8NhvqLl-o2A&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=9) |        |        |        |        |        |        |        |        |        |         |
-| [9강](https://www.youtube.com/watch?v=QXakJJHkz8k&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=10) |        |        |        |        |        |        |        |        |        |         |
-| [10강](https://www.youtube.com/watch?v=ZzPVFqYW2zc&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=11) |        |        |        |        |        |        |        |        |        |         |
+| [0강](https://www.youtube.com/watch?v=6MGe3wG8Fr4&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=1&t=55s) |        |        |        |        |        |   []   |        |        |        |         |
+| [1강](https://www.youtube.com/watch?v=0tKGQbgQ-5s&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=2) |        |        |        |        |        |   []   |        |        |        |         |
+| [2강](https://www.youtube.com/watch?v=pOakXs66EEI&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=3) |        |        |        |        |        |   []   |        |        |        |         |
+| [3강](https://www.youtube.com/watch?v=GvUMF_UM8jU&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=4) |        |        |        |        |        |   []   |        |        |        |         |
+| [4강](https://www.youtube.com/watch?v=VtqhZQP7T4c&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=5) |        |        |        |        |        |   []   |        |        |        |         |
+| [5강](https://www.youtube.com/watch?v=nsy6_nJQ3K8&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=6) |        |        |        |        |        |   []   |        |        |        |         |
+| [6강](https://www.youtube.com/watch?v=EHVBOv_VRw4&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=7) |        |        |        |        |        |   []   |        |        |        |         |
+| [7강](https://www.youtube.com/watch?v=1KZFLpJ3jio&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=8) |        |        |        |        |        |   []   |        |        |        |         |
+| [8강](https://www.youtube.com/watch?v=8NhvqLl-o2A&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=9) |        |        |        |        |        |   []   |        |        |        |         |
+| [9강](https://www.youtube.com/watch?v=QXakJJHkz8k&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=10) |        |        |        |        |        |   []   |        |        |        |         |
+| [10강](https://www.youtube.com/watch?v=ZzPVFqYW2zc&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=11) |        |        |        |        |        |   []   |        |        |        |         |
 | [11강](https://www.youtube.com/watch?v=etvC-lj39ws&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=12) |        |        |        |        |        |        |        |        |        |         |
 | [12강](https://www.youtube.com/watch?v=Os_o-7eGu7Y&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=13) |        |        |        |        |        |        |        |        |        |         |
 | [13강](https://www.youtube.com/watch?v=HNX_FZBU_wA&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163&index=14) |        |        |        |        |        |        |        |        |        |         |
