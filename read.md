@@ -8,7 +8,7 @@
 
 | No   | <c/>항목</c>                                                 |      |      |
 | ---- | :----------------------------------------------------------- | ---- | ---- |
-| 1    | (SWTF) Master Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=85f5z1NjrIXAZoNt<br/>위치 : 전사 폴더>문서중앙화>Z-TEC>장비사업부문>연구소>연구실>연구1팀>연구팀공유폴더>4_업무파일_사내>SWTF<br/> (SWTF) Master Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=00f5z1NjrIXAZoNr<br/> 수정 : http://doc.keoc.kr:80/url/?key=c2f5z1NjrIXAZoNs |      |      |
+| 1    | (SWTF) Master Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=00f5z1NjrIXAZoNr<br/> 수정 : http://doc.keoc.kr:80/url/?key=c2f5z1NjrIXAZoNs |      |      |
 |      |                                                              |      |      |
 |      |                                                              |      |      |
 |      |                                                              |      |      |
