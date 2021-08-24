@@ -1,5 +1,9 @@
 # SWTF 활동 계획 및 점검
 
+[TOC]
+
+
+
 ### 1. Master Plan
 
 | [(SWTF) Master Plan_v1_210818.pptx](http://doc.keoc.kr:80/url/?key=85f5z1NjrIXAZoNt) |
@@ -18,7 +22,7 @@
 
   - 자료 : \cloudium 서버 (U:)\연구1팀\연구팀공유폴더\4_업무파일_사내\조직 운영 활성화 방안
 
-  - [자료모음]: 내PC\cloudium서버(U:)\연구1팀\연구팀공유폴더\4_업무파일_사내\조직운영활성화방안
+    내PC\cloudium서버(U:)\연구1팀\연구팀공유폴더\4_업무파일_사내\조직운영활성화방안
 
     
 
