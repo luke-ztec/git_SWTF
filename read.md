@@ -6,8 +6,12 @@
 
 ## 1. Master Plan
 
-| [(SWTF) Master Plan_v1_210818.pptx](http://doc.keoc.kr:80/url/?key=85f5z1NjrIXAZoNt) |
-| :----------------------------------------------------------- |
+| No   | <c/>항목</c>                                                 |      |      |
+| ---- | :----------------------------------------------------------- | ---- | ---- |
+| 1    | (SWTF) Master Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=85f5z1NjrIXAZoNt<br/>위치 : 전사 폴더>문서중앙화>Z-TEC>장비사업부문>연구소>연구실>연구1팀>연구팀공유폴더>4_업무파일_사내>SWTF<br/> (SWTF) Master Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=00f5z1NjrIXAZoNr<br/> 수정 : http://doc.keoc.kr:80/url/?key=c2f5z1NjrIXAZoNs |      |      |
+|      |                                                              |      |      |
+|      |                                                              |      |      |
+|      |                                                              |      |      |
 
 - 
 
@@ -51,7 +55,7 @@
 | :--: | :-----------: | :----------------------------------------------------------- |
 |  1   |  이택용 책임  |                                                              |
 |  2   |  정찬용 책임  | 광학보상기 :  https://github.com/LAB1-SW-SRC/D205-D17x-.git<br />화상검사기 :  https://github.com/LAB1-SW-SRC/D28x-.git<br />최종검사기 : https://github.com/LAB1-SW-SRC/D84X-.git<br /> |
-|  3   |  권상혁 책임  | Flicker : https://github.com/LAB1-SW-SRC/git_NK_X392_X1768.git<br />출하검사기 : https://github.com/LAB1-SW-SRC/git_VN_D854.git<br /> |
+|  3   |  권상혁 책임  | SWTF활동  : https://github.com/LAB1-SW-SRC/git_SWTF.git<br />Flicker : https://github.com/LAB1-SW-SRC/git_NK_X392_X1768.git<br />출하검사기 : https://github.com/LAB1-SW-SRC/git_VN_D854.git<br /> |
 |  4   |  박창민 책임  | TOVIS : https://github.com/parkcm007/TOVIS.git               |
 |  5   | 임이레 연구원 |                                                              |
 |  6   | 김우현 연구원 |                                                              |
@@ -62,6 +66,10 @@
 
 ## 3. C#
 
-| [(SWTF) '21년 C#_v1_210819.pptx](http://doc.keoc.kr:80/url/?key=04b5z1NjrIXAZp4s) |
-| ------------------------------------------------------------ |
+| [(SWTF) '21년 C#_v1_210819.pptx](http://doc.keoc.kr:80/url/?key=04b5z1NjrIXAZp4s) |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+|                                                              |      |      |
+
+
 
