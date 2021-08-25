@@ -134,7 +134,7 @@
 
 |  No  | function 세부 항목        | 담당자 | 일정  |                             자료                             | 비    고 |
 | :--: | ------------------------- | :----: | :---: | :----------------------------------------------------------: | -------- |
-|  1   | D205 Initialize Flowchart | 권상혁 | 08/25 | <img src="D:\github\git_SWTF\D205_Initialize_FlowchartDiagram1.jpg" alt="System Initialize Flowchart" style="zoom:20%;" /> |          |
+|  1   | D205 Initialize Flowchart | 권상혁 | 08/25 | <img src="D:\github\git_SWTF\D205_Initialize_FlowchartDiagram1.png" alt="System Initialize Flowchart" style="zoom:20%;" /> |          |
 |  2   |                           |        |       |                                                              |          |
 |  3   |                           |        |       |                                                              |          |
 |  4   |                           |        |       |                                                              |          |
