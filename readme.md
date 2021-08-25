@@ -48,7 +48,7 @@
 
 |  No  |     이름      | 모델 및 경로                                                 | 일자  | 비  고 |
 | :--: | :-----------: | :----------------------------------------------------------- | :---: | ------ |
-|  1   |  이택용 책임  |                                                              |       |        |
+|  1   |  이택용 책임  | 토비스 : https://github.com/LAB1-SW-SRC/21-Pxxx-TOVIS-MANUAL_AOI<br />구미개발품질반 : https://github.com/LAB1-SW-SRC/21-Pxxxx-210CH_AgingSystem | 08/25 |        |
 |  2   |  정찬용 책임  | 광학보상기 :  https://github.com/LAB1-SW-SRC/D205-D17x-.git<br />화상검사기 :  https://github.com/LAB1-SW-SRC/D28x-.git<br />최종검사기 : https://github.com/LAB1-SW-SRC/D84X-.git<br /> | 08/24 |        |
 |  3   |  권상혁 책임  | SWTF활동  : https://github.com/LAB1-SW-SRC/git_SWTF.git<br />Flicker : https://github.com/LAB1-SW-SRC/git_NK_X392_X1768.git<br />출하검사기 : https://github.com/LAB1-SW-SRC/git_VN_D854.git<br /> | 08/24 |        |
 |  4   |  박창민 책임  | TOVIS : https://github.com/parkcm007/TOVIS.git               |       |        |
