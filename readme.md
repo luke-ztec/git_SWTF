@@ -134,7 +134,7 @@
 
 |  No  | function 세부 항목        | 담당자 | 일정  |                             자료                             | 비    고 |
 | :--: | ------------------------- | :----: | :---: | :----------------------------------------------------------: | -------- |
-|  1   | D205 Initialize Flowchart | 권상혁 | 08/25 | [system initialize FlowChart](![Optical_Compensation(광학보상)-1](D:\github\git_SWTF\Optical_Compensation(광학보상)-1.jpg) |          |
+|  1   | D205 Initialize Flowchart | 권상혁 | 08/25 | ![System Initialize Flowchart](D:\github\git_SWTF\Optical_Compensation(광학보상)-1.jpg) |          |
 |  2   |                           |        |       |                                                              |          |
 |  3   |                           |        |       |                                                              |          |
 |  4   |                           |        |       |                                                              |          |
