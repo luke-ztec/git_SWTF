@@ -114,7 +114,7 @@
 | :--: | ------------------------------------------------------------ | :----------: | ------- |
 |  1   | (연구소)SW 프로젝트 및 Tools_v1_210727.ppt :<br /> http://doc.keoc.kr:80/url/?key=0036z1NjsExzloOG<br/> |              |         |
 |  2   | 제품별 알고리즘화 계획 수립.                                 | 8/18 ~ 09/10 |         |
-|  3   | 알고리즘 정리하기 위한 도구 : <br /> StarUML Setup 4.0.1.exe : http://doc.keoc.kr:80/url/?key=47d4z1Njy2Ao_J09<br/> |     8/25     | 참고용  |
+|  3   | 알고리즘 정리하기 위한 도구 : <br /> StarUML Setup 4.0.1.7z : http://doc.keoc.kr:80/url/?key=8055z1Njy2Ao_QBO<br/> |     8/25     | 참고용  |
 
 
 
