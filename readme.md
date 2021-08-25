@@ -52,7 +52,7 @@
 |  2   |  정찬용 책임  | 광학보상기 :  https://github.com/LAB1-SW-SRC/D205-D17x-.git<br />화상검사기 :  https://github.com/LAB1-SW-SRC/D28x-.git<br />최종검사기 : https://github.com/LAB1-SW-SRC/D84X-.git<br /> | 08/24 |        |
 |  3   |  권상혁 책임  | SWTF활동  : https://github.com/LAB1-SW-SRC/git_SWTF.git<br />Flicker : https://github.com/LAB1-SW-SRC/git_NK_X392_X1768.git<br />출하검사기 : https://github.com/LAB1-SW-SRC/git_VN_D854.git<br /> | 08/24 |        |
 |  4   |  박창민 책임  | TOVIS : https://github.com/parkcm007/TOVIS.git               |       |        |
-|  5   | 임이레 연구원 |                                                              |       |        |
+|  5   | 임이레 연구원 | 광학보상기 : https://github.com/LAB1-SW-SRC/21PXXXLGD-YT-MP-D16x_OC_Inspector<br />Lucid 구미 : https://github.com/LAB1-SW-SRC/21P259LGD-GM-MP-AUTO-Lucid_34_PO<br /> - 구미 Engine : https://github.com/LAB1-SW-SRC/21P259LGD-GM-MP-AUTO-Lucid_34_PO_Engine<br />Lucid 베트남 : https://github.com/LAB1-SW-SRC/21P259LGD-VH-NP-AUTO-Lucid_34_PO<br /> - 베트남 Engine : https://github.com/LAB1-SW-SRC/21P259LGD-VH-NP-AUTO-Lucid_34_PO_Engine<br />희성 FI 검사기 : https://github.com/LAB1-SW-SRC/21PXXXHS-GZ-MP-neo_blade_FI_Inspector |       |        |
 |  6   | 김우현 연구원 |                                                              |       |        |
 
 
