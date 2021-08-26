@@ -10,7 +10,7 @@
 
 | No   | **항목**                                                     | 일정 | 비   고 |
 | ---- | :----------------------------------------------------------- | ---- | :-----: |
-| 1    | (SWTF) Master Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=00f5z1NjrIXAZoNr<br/> | 8/24 |  자료   |
+| 1    | (SWTF) Master Plan.pptx : http://doc.keoc.kr:80/url/?key=8de5z1Nj-UhfmTQj<br/> | 8/24 |  자료   |
 |      |                                                              |      |         |
 
 - 
@@ -23,7 +23,7 @@
 
 |  No  | 항목                                                         | 일정 | 비  고 |
 | :--: | ------------------------------------------------------------ | ---- | ------ |
-|  1   | (SWTF) '21년 GitHub_Plan_v1_210818.pptx : http://doc.keoc.kr:80/url/?key=8c36z1NjrIXAZoqn<br/> | 8/24 | 자료   |
+|  1   | (SWTF) '21년 GitHub_Plan.pptx : http://doc.keoc.kr:80/url/?key=ce95z1Nj-UhfmTn3<br/> | 8/24 | 자료   |
 |  2   | 교육자료 : \cloudium 서버 (U:)\연구1팀\연구팀공유폴더\4_업무파일_사내\조직 운영 활성화 방안 | 8/24 | 자료   |
 |  3   | GitHub_저장소_Naming_Rule_v1_210813.pptx : http://doc.keoc.kr:80/url/?key=cda5z1NjsExzl9FL<br/> | 8/24 | 자료   |
 |  4   | Namming 참고 : 1.프로젝트 현황(개발).xlsx : http://doc.keoc.kr:80/url/?key=c326z1NjsExzl8_a<br/> | 8/24 | 자료   |
@@ -65,7 +65,7 @@
 
 |  No  | 항목                                                         |    일정     | 비   고 |
 | :--: | ------------------------------------------------------------ | :---------: | ------- |
-|  1   | (SWTF) '21년 C#_v1_210819.pptx : http://doc.keoc.kr:80/url/?key=8ea5z1NjrIXAZp4q<br/> |             |         |
+|  1   | (SWTF) '21년 C#.pptx : http://doc.keoc.kr:80/url/?key=4825z1Nj-UhfmT-C<br/> |             |         |
 |  2   | C# Study 공유(l**이것이** **C#****이다** **(****한빛미디어****,** **박상현****)** )<br /> | 8/23 ~ 9/09 |         |
 |  3   | C# 금오공대 신승혁 교수 교육 계획(09/초 ~ )                  |   9/01 ~    |         |
 
@@ -112,7 +112,7 @@
 
 |  No  | 항목                                                         |     일정     | 비   고 |
 | :--: | ------------------------------------------------------------ | :----------: | ------- |
-|  1   | (연구소)SW 프로젝트 및 Tools_v1_210727.ppt :<br /> http://doc.keoc.kr:80/url/?key=0036z1NjsExzloOG<br/> |              |         |
+|  1   | (연구소)SW 프로젝트 및 Tools.ppt : http://doc.keoc.kr:80/url/?key=8e55z1Nj-UhfmU9K<br/> |              |         |
 |  2   | 제품별 알고리즘화 계획 수립.                                 | 8/18 ~ 09/10 |         |
 |  3   | 알고리즘 정리하기 위한 도구 : <br /> - StarUML Setup 4.0.1.egg : http://doc.keoc.kr:80/url/?key=8726z1Njy2Ao_Qwm<br/> |     8/25     | 참고용  |
 
